@@ -1,0 +1,14 @@
+{
+  "version": "0.1.0",
+  "name": "lockdapp",
+  "instructions": [
+    {
+      "name": "initialize",
+      "accounts": [],
+      "args": []
+    }
+  ],
+  "metadata": {
+    "address": "6i8FHTnCRhGC3XEH2FKwtKJ4zeEvtKPckcUUXLDz69ty"
+  }
+}
